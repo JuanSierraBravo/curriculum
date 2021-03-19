@@ -239,3 +239,10 @@ h1, h2, h3, h4, h5, p, div, a {
 /* #contactme p {
   width: 80%;
 } */
+
+/* Footer */
+
+#footer {
+  color: #eeebdd;
+  margin: 1.5rem auto;
+}
